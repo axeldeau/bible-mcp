@@ -12,7 +12,7 @@ Follow these steps to get the server running on your local machine.
 
 Before you begin, ensure you have the following installed:
 
-* **[Language/Runtime]**: E.g., Node.js v18+
+* **[Language/Runtime]**: Node.js v18+
 * **Git**: For cloning the repository.
 
 ### Installation Steps
