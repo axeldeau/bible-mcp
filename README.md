@@ -31,13 +31,7 @@ Before you begin, ensure you have the following installed:
     npm run build
     ```
 
-## ▶️ Usage
-
-Prompt your LLM to `use bible-mcp and get me a bible verse`
-
-It should return a sible verse you can medidate and pray on.
-
-## 🌐 ACP Configuration
+### 🌐 ACP Configuration
 
 for YAML
 
@@ -64,6 +58,13 @@ For JSON
     }
   }
 ```
+
+## ▶️ Usage
+
+Prompt your LLM to `use bible-mcp and get me a bible verse`
+
+It should return a sible verse you can medidate and pray on.
+
 
 ## 📄 License
 
