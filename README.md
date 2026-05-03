@@ -35,7 +35,7 @@ Before you begin, ensure you have the following installed:
 
 Prompt your LLM to `use bible-mcp and get me a bible verse`
 
-it should return a sible verse you can medidate and pray on.
+It should return a sible verse you can medidate and pray on.
 
 ## 🌐 ACP Configuration
 
