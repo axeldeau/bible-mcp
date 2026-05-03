@@ -31,7 +31,7 @@ Before you begin, ensure you have the following installed:
     npm run build
     ```
 
-### 🌐 ACP Configuration
+### ACP Configuration
 
 for YAML
 
